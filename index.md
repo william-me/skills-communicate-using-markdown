@@ -7,3 +7,6 @@ This is in preparations of github foundations cert.
 $ git init
 initialized empty git repo
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
